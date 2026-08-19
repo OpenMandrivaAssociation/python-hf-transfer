@@ -19,6 +19,8 @@ Source1:	%{name}-%{version}-vendor.tar.gz
 
 BuildSystem:	python
 BuildRequires:	cargo
+BuildRequires:	make
+BuildRequires:	perl
 BuildRequires:	pkgconfig(openssl)
 BuildRequires:	pkgconfig(python)
 BuildRequires:	python%{pyver}dist(maturin)
