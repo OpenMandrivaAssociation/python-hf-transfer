@@ -9,7 +9,7 @@
 
 Name:		python-hf-transfer
 Version:	0.1.9
-Release:	1
+Release:	2
 Summary:	Fast file transfers for the Hugging Face Hub
 License:	Apache-2.0
 Group:		Development/Python
